@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: WormOnASring
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2019-11-10T12:46:40-0500
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+

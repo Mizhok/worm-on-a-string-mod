@@ -2,18 +2,18 @@
 <component>
   <configuration default="false" factoryName="Application" name="runClient" singleton="false" type="Application">
     <option name="MAIN_CLASS_NAME" value="net.minecraftforge.userdev.LaunchTesting"/>
-    <option name="VM_PARAMETERS" value="-Dforge.logging.console.level=debug -Dforge.logging.markers=SCAN,REGISTRIES,REGISTRYDUMP"/>
+    <option name="VM_PARAMETERS" value="-Dforge.logging.console.level=debug -Dforge.logging.markers=SCAN,REGISTRIES,REGISTRYDUMP -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump &quot;-Dos.name=Windows 10&quot; -Dos.version=10.0"/>
     <option name="PROGRAM_PARAMETERS" value=""/>
-    <option name="WORKING_DIRECTORY" value="/home/mizhok/Desktop/worm on a stirng mod/WormOnASring/run"/>
-    <module name="WormOnASring_main"/>
+    <option name="WORKING_DIRECTORY" value="C:\Users\Mizhok\IdeaProjects\worm-on-a-string-mod\run"/>
+    <module name="worm-on-a-string-mod_main"/>
     <envs>
-      <env name="MOD_CLASSES" value="examplemod%%/home/mizhok/Desktop/worm on a stirng mod/WormOnASring/build/resources/main:examplemod%%/home/mizhok/Desktop/worm on a stirng mod/WormOnASring/build/classes/java/main"/>
-      <env name="MCP_MAPPINGS" value="snapshot_20190719-1.14.3"/>
+      <env name="MOD_CLASSES" value="examplemod%%C:\Users\Mizhok\IdeaProjects\worm-on-a-string-mod\build\resources\main;examplemod%%C:\Users\Mizhok\IdeaProjects\worm-on-a-string-mod\build\classes\java\main"/>
+      <env name="MCP_MAPPINGS" value="snapshot_20191109-1.14.3"/>
       <env name="MCP_VERSION" value="20190829.143755"/>
       <env name="FORGE_VERSION" value="28.1.87"/>
       <env name="assetIndex" value="1.14"/>
-      <env name="assetDirectory" value="/home/mizhok/.gradle/caches/forge_gradle/assets"/>
-      <env name="nativesDirectory" value="/home/mizhok/Desktop/worm on a stirng mod/WormOnASring/build/natives"/>
+      <env name="assetDirectory" value="C:\Users\Mizhok\.gradle\caches\forge_gradle\assets"/>
+      <env name="nativesDirectory" value="C:\Users\Mizhok\IdeaProjects\worm-on-a-string-mod\build\natives"/>
       <env name="FORGE_GROUP" value="net.minecraftforge"/>
       <env name="target" value="fmluserdevclient"/>
       <env name="MC_VERSION" value="1.14.4"/>

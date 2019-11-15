@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/worm-on-a-string-mod.iml" filepath="$PROJECT_DIR$/.idea/worm-on-a-string-mod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/worm-on-a-string-mod.main.iml" filepath="$PROJECT_DIR$/.idea/modules/worm-on-a-string-mod.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/worm-on-a-string-mod.test.iml" filepath="$PROJECT_DIR$/.idea/modules/worm-on-a-string-mod.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/worm_on_string.iml" filepath="$PROJECT_DIR$/.idea/modules/worm_on_string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/worm_on_string.main.iml" filepath="$PROJECT_DIR$/.idea/modules/worm_on_string.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/worm_on_string.test.iml" filepath="$PROJECT_DIR$/.idea/modules/worm_on_string.test.iml" />
+    </modules>
+  </component>
+</project>
